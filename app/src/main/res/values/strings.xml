@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AdsIntegrationExample</string>
+    <string name="nextactivity">NextActivity</string>
+    <string name="hi_welcome">Hi welcome!!</string>
+    <string name="impossible_game">Impossible Game</string>
+</resources>
